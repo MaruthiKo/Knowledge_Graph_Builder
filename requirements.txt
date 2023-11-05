@@ -1,0 +1,7 @@
+torch
+transformers
+pyvis
+GoogleNews
+newspaper3k
+wikipedia
+streamlit
